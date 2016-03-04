@@ -13,7 +13,7 @@ Instructions for runnning the script
 * Make a directory which contains all you project that you need to push on github.
 *  Repositories will be named according to your project's folder name, so name each of your project folder properly.
 *	Go to the repository containing all your projects and copy paste the script repo-maker.sh
-*	Now just run the script using bash repo-maker.sh
+*	Now just run the script using <b>bash repo-maker.sh</b>
 *	The script will ask you for your some basic information (you can press enter each time and skip them to keep them to default), enter them and enjoy. :smile:
 
 
