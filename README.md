@@ -8,6 +8,14 @@
 3. You like all types of random automations even if they are of very less use. :stuck_out_tongue_winking_eye:
 4. You like contributing to open source as you love, live and breathe open source. :smile:
 
+Instructions for runnning the script
+
+* Make a directory which contains all you project that you need to push on github.
+*  Repositories will be named according to your project's folder name, so name each of your project folder properly.
+*	Go to the repository containing all your projects and copy paste the script repo-maker.sh
+*	Now just run the script using bash repo-maker.sh
+*	The script will ask you for your some basic information (you can press enter each time and skip them to keep them to default), enter them and enjoy. :smile:
+
 
 Other queries.
 #### What is this authentication token and where can I find it.?
