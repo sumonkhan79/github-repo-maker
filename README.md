@@ -1,6 +1,6 @@
 # github-repo-maker  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com//ironmaniiith/Github-profile-name-writer/star)
 
-###Push all your project with this simple bash script ###
+###Push all your project a simple bash script ###
 
 ####This script is of your interest if :exclamation:
 1. You want to show off all your projects on github as <b> GSOC 2k16 </b> is coming. :wink:
