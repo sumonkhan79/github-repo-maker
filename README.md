@@ -22,7 +22,7 @@ Other queries.
 * Authentication token is used for creating the github repositories in this script. You can generate it on github from  [settings->github->Personal access tokens](https://github.com/settings/tokens).
 
 #### The script is asking for the github password while pushing, will it ask for each time.? ####
-* No, you just need to enter the password for the first time, after that git will store the password in cache and won't ask you for it again.
+* <b>No</b>, you just need to enter the password for the first time, after that git will store the password in cache and won't ask you for it again.
 
 
 #### What more.?####
