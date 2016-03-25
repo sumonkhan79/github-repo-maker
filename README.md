@@ -8,7 +8,7 @@
 3. You like all types of random automations even if they are of very less use. :stuck_out_tongue_winking_eye:
 4. You like contributing to open source as you love, live and breathe open source. :smile:
 
-Instructions for runnning the script
+#### Instructions for runnning the script
 
 * Make a directory which contains all you project that you need to push on github.
 *  Repositories will be named according to your project's folder name, so name each of your project folder properly.
