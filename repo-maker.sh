@@ -101,7 +101,7 @@ function createRepo(){
 	git config user.name "$username"
 	git config user.email "$email"
 	git remote add origin https://"$username"@github.com/"$username"/"$repoName"
-	curl -s -i -H "Authorization: token $token" -d "{ \"name\": \"$repoName\",\"auto_init\": $auto_init, \"private\": false }" https://api.github.com/user/repos | grep html_url >/dev/null 2>/dev/null
+	curl -s -i -H "Authorization: token $token" -d "{ \"name\": \"$repoName\",\"auto_init\": $auto_init, \"private\": false }" https://api.github.com/user/repos -k | grep html_url >/dev/null 2>/dev/null 
 	if [[ "$?" -eq 0 ]]; then
 		echo "Successfully created $repoName"
 		if [[ "$?" -eq 0 ]]; then
