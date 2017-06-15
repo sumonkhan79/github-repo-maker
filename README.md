@@ -1,8 +1,8 @@
 # github-repo-maker  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com//ironmaniiith/Github-profile-name-writer/star)
 
-###Push all your project to github at once###
+### Push all your project to github at once
 
-####This script is of your interest if :exclamation:
+#### This script is of your interest if :exclamation:
 1. You want to show off all your projects on github as <b> GSOC 2k16 </b> is coming. :wink:
 2. You have too many projects that you need to push on github but you are too lazy to do so. :sunglasses:
 3. You like all types of random automations even if they are of very less use. :stuck_out_tongue_winking_eye:
@@ -21,11 +21,11 @@ Other queries.
 #### What is this authentication token and where can I find it.?
 * Authentication token is used for creating the github repositories in this script. You can generate it on github from  [settings->github->Personal access tokens](https://github.com/settings/tokens).
 
-#### The script is asking for the github password while pushing, will it ask for each time.? ####
+#### The script is asking for the github password while pushing, will it ask for each time.?
 * <b>No</b>, you just need to enter the password for the first time, after that git will store the password in cache and won't ask you for it again.
 
 
-#### What more.?####
+#### What more.?
 * I'll keep on adding more information or help if it's needed.
 
 Any suggestions are always welcomed.
